@@ -1,0 +1,15 @@
+#TELA DE LOGIN ( PROJETO SITE Computer.io)
+
+Neste projeto, terei o desafio de entender conceitos como responsividade, inserção e redirecionamento de fontes, img ... 
+Portanto, tive que ter contato com frames como o bootstrap (forms, nav, navbars, buttons... ), sites para modelagem do projeto como font awesome, google fonts.
+
+Ainda não foi aplicado nenhum JavaScript ou PHP ( alem dos scripts do Bootstrap).
+
+
+To do:
+
+- Responsividade da tela de login;
+- Melhorar o css(organização, comentários);
+- Novas páginas ( Cadastro, Tela Inicial*);
+- Criação e conexão a um banco de dados;
+
