@@ -75,3 +75,13 @@
     }
     
 }
+
+@media screen and (max-width: 980px) {
+
+    .banner-login {
+        display: none;
+    }
+    .login-form {
+        width: 100%;
+    }
+}
