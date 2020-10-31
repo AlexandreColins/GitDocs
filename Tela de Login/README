@@ -11,5 +11,11 @@ To do:
 - Responsividade da tela de login; Ok*** (Problemas nas div's)
 - Melhorar o css(organização, comentários); Ok **** (Estilizar o <a> Cadastro)
 - Novas páginas ( Cadastro, Tela Inicial*);
+    - Cadastro (Iniciado)
+        -Criação da pagina (Linkagem) Ok
+        -Style
+        -Responsividade
+        -Finalização
+    - Tela Inicial ()
 - Criação e conexão a um banco de dados;
 
