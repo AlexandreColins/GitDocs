@@ -40,14 +40,14 @@
     padding: 20px;
 }
 
-.login-form-first button {
+.login-form-first #Singin {
     width: 100%;
     background-color: #32435E;
     border: none;
     margin-top: 5px;
 }
 
-.login-form-first button:hover {
+.login-form-first #Singin:hover {
     
     border: none;
     color: #fff;
