@@ -3,7 +3,7 @@
 Neste projeto, terei o desafio de entender conceitos como responsividade, inserção e redimensionamento de fontes, img ... 
 Portanto, tive que ter contato com frames como o bootstrap (forms, nav, navbars, buttons... ), sites para modelagem do projeto como font awesome, google fonts.
 
-Ainda não foi aplicado nenhum JavaScript ou PHP ( alem dos scripts do Bootstrap).
+Ainda não foi aplicado nenhum JavaScript ou PHP (alem dos scripts do Bootstrap).
 
 
 To do:
@@ -11,11 +11,26 @@ To do:
 - Responsividade da tela de login; Ok*** (Problemas nas div's)
 - Melhorar o css(organização, comentários); Ok **** (Estilizar o <a> Cadastro)
 - Novas páginas ( Cadastro, Tela Inicial*);
-    - Cadastro (Iniciado)
+    - Cadastro (Finalizado**)
         -Criação da pagina (Linkagem) Ok
-        -Style
+        -Style Ok
+        -Responsividade * Ok
+        -Finalização Ok (Ainda não foi criado alguma conexão com o banco de dados)
+    - About Us (Em desenvolvimento)
+        -Criação da pagina (Linkagem) Ok
+        -Style Ok
+        -Responsividade *** ( Aprender a fazer menus responsivos).
+        -Finalização
+    - Products (Iniciado)
+        -Criação da pagina (Linkagem) 
+        -Style Ok
         -Responsividade
         -Finalização
-    - Tela Inicial ()
+    - Contact (Criação)
+        -Criação da pagina (Linkagem) 
+        -Style 
+        -Responsividade 
+        -Finalização
+
 - Criação e conexão a um banco de dados;
 
