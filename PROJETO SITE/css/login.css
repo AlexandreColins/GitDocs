@@ -85,3 +85,9 @@
         width: 100%;
     }
 }
+
+
+.singup-link {
+    text-decoration:none;
+    color: #333;
+}
