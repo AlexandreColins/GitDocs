@@ -1,0 +1,87 @@
+.products-container {
+    background: white;
+}
+@media (min-width: 768px) {
+    html {
+      font-size: 16px;
+ }
+}
+.container {
+    max-width: 960px;
+}
+  
+.pricing-header {
+    max-width: 700px;
+}
+  
+.card-deck .card {
+    min-width: 220px;
+}
+
+.masthead-products {
+    margin-bottom: 2rem;
+}
+  
+.masthead-brand-products {
+    margin-bottom: 0;
+    color: #333;
+}
+
+.navp-masthead .navp-link {
+    padding: .25rem 0;
+    font-weight: 700;
+    color: #333;
+    background-color: transparent;
+    border-bottom: .25rem solid transparent;
+}
+.navp-masthead .navp-link:hover,
+.navp-masthead .navp-link:focus {
+    border-bottom-color: rgb(87, 87, 87);
+    text-decoration:none;
+}
+
+.navp-masthead .navp-link + .navp-link {
+    margin-left: 1rem;
+}
+
+.navp-masthead .active {
+    color: #333;
+    border-bottom-color: #333;
+}
+
+
+@media (min-width: 48em) {
+    .masthead-brand-products {
+      float: left;
+    }
+    .navp-masthead {
+      float: right;
+  }
+}
+
+a,
+a:focus,
+a:hover {
+  color: #333;
+}
+
+.card-deck button {
+    background-color: #333;   
+}
+.text-products {
+    color: #333;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.mastfoot-products .footer-text {
+    color: #333;
+}
+.aproducts-footer {
+    color: #333;
+}
+.produ-text {
+    margin-bottom: 60px;
+}
